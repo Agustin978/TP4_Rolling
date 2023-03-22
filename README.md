@@ -9,3 +9,5 @@ Ejercicio 3: El usuario ingresa los detos de los rectangulos que desee, y luego 
 Ejercicio 5: El usuario ingresa algunos datos de una persona, y luego se muestran los datos junto a la taxonomia de la persona, determina si es mayor de edad y un numero de documento de 8 caracteres generado de manera aleatoria.
 
 Ejercicio 6: Desarrollado el ejercicio 6. Creada una clase libro con su constructor y sus respectivos metodos getter y setter y un metodo para mostrar los libros creados. Se crearon 3 libros y se muestran los datos de los mismos.
+
+Ejercicio 7: Creadas dos clases una contacto en la que se ingresan los datos de los contactos, y otra agenda donde se almacenan todos los contactos y la cual tiene los metodos de busqueda, eliminacion y agregacion de contactos.
